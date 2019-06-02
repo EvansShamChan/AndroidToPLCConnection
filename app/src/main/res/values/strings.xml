@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidS7</string>
+    <string name="write_all">Write All</string>
+    <string name="android_s7">Android - S7</string>
+    <string name="read_data">Read Data</string>
+    <string name="db1_dbw0">DB1.DBW0:</string>
+    <string name="db1_dbw2">DB1.DBW2:</string>
+    <string name="write_data">Write Data</string>
+    <string name="read_all">Read All</string>
+</resources>
